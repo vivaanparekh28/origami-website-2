@@ -1,0 +1,31 @@
+.header{
+    background-image: url("origami2.jpg") ;
+}
+.header p{
+color:purple
+
+
+}
+.origami{
+    display:flex;
+    flex-wrap: wrap;
+    background-color:white;
+    background-image: url("https://i.pinimg.com/originals/ec/bf/eb/ecbfeb12ae9056da5d2556530c171f19.gif");
+    
+}
+.origami img {
+      
+    width: 200px;
+    height: 200px;
+   
+border-radius: 50px;
+
+
+    
+
+ }
+ .item {
+      
+    padding: 10px;
+    margin:30px
+   }
